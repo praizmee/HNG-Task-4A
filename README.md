@@ -1,11 +1,10 @@
 # HNG-Task-4A
-# 💼 MarginPlus
+# MarginPlus
 
 MarginPlus is a modern crowdfunding and micro-investment platform that enables people to support local businesses by pooling funds together and earning a share of their profits over time.
 
----
 
-## 🧠 What MarginPlus Does
+## What MarginPlus Does
 
 MarginPlus bridges the gap between **small business owners** who need access to growth capital and **everyday investors** who want to grow their money responsibly.  
 It provides an easy-to-use digital platform where verified businesses can list funding campaigns, and individuals can browse, contribute, and monitor their earnings — all in one secure environment.
@@ -13,9 +12,8 @@ It provides an easy-to-use digital platform where verified businesses can list f
 In short:  
 > **Businesses get funded. Individuals earn returns. Communities grow stronger.**
 
----
 
-## 💡 Why It Matters
+## Why It Matters
 
 - **Limited Access to Funding:** Small and medium-sized enterprises (SMEs) in emerging markets often face difficulty accessing loans or credit from banks.  
 - **Financial Inclusion:** Many people want to invest but lack knowledge, trust, or platforms that make it simple and transparent.  
@@ -25,18 +23,17 @@ MarginPlus solves these problems by providing a transparent, tech-driven alterna
 
 ---
 
-## 👥 Who It’s For
+## Who It’s For
 
 | User Type | Description |
 |------------|-------------|
-| 🧑‍💼 **Business Owners** | Entrepreneurs or SMEs seeking alternative funding without complex bank procedures. |
-| 💰 **Investors / Contributors** | Individuals looking to diversify income through short-term, impact-driven investments. |
-| 🧑‍⚖️ **Regulatory Partners** | Entities ensuring campaigns meet financial and ethical standards. |
-| 🧑‍💻 **Developers / Integrators** | Third-party platforms integrating the MarginPlus API for analytics or portfolio management. |
+|  **Business Owners** | Entrepreneurs or SMEs seeking alternative funding without complex bank procedures. |
+|  **Investors / Contributors** | Individuals looking to diversify income through short-term, impact-driven investments. |
+|  **Regulatory Partners** | Entities ensuring campaigns meet financial and ethical standards. |
+|  **Developers / Integrators** | Third-party platforms integrating the MarginPlus API for analytics or portfolio management. |
 
----
 
-## ✨ Key Features
+##  Key Features
 
 ### 1. **Business Campaign Listings**
 Businesses can create verified fundraising campaigns, specifying capital goals, profit-sharing percentages, and duration.
@@ -56,9 +53,8 @@ Every business is vetted and verified, ensuring contributors only fund legitimat
 ### 6. **Notifications & Insights**
 Users receive alerts on investment status, payout dates, and market insights.
 
----
 
-## 🛠️ Key Technologies
+## Key Technologies
 
 | Layer | Technologies |
 |-------|---------------|
