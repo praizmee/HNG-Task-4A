@@ -72,25 +72,4 @@ Users receive alerts on investment status, payout dates, and market insights.
 | **Design & Prototyping** | Figma |
 | **Documentation** | Markdown, API Blueprint, Swagger (future implementation) |
 
----
-
-## 🚀 Future Roadmap
-
-- [ ] Add AI-driven investment recommendations  
-- [ ] Launch MarginPlus mobile app (React Native)  
-- [ ] Enable cross-border micro-investments  
-- [ ] Introduce blockchain-based transaction transparency  
-
----
-
-## 💬 Contact
-
-For partnership or technical inquiries:
-
-**MarginPlus Team**  
-📧 info@marginplus.app  
-🌐 [www.marginplus.app](https://www.marginplus.app)
-
----
-
-> **MarginPlus** — Empowering communities through transparent, people-powered funding.
+Figma Link to Project: https://www.figma.com/design/0DOAZyECBLcMcUJNHbsuqG/App-Design?node-id=0-1&t=M5MenbL2ZQKhKCXO-1
